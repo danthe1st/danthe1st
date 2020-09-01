@@ -6,7 +6,7 @@
 ![my github stats](https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200)](https://github.com/anuraghazra/github-readme-stats)
 
-I am a student at a secondary technical collage for IT.
+I am a student at a secondary technical college for IT.
 
 I like to experiment with things like discord bots, dynamic websites and WSL.
 
