@@ -1,6 +1,6 @@
 [![my Stack Exchange, profile](https://stackexchange.com/users/flair/15064163.png)](https://stackoverflow.com/users/10871900/dan1st)
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt)
 
 I am a student at a secondary technical collage for IT.
 
