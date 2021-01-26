@@ -4,8 +4,8 @@
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
 <a href="http://www.nerdtests.com/ft_nq.php"><img src="https://www.nerdtests.com/images/ft/nq/6b7343c290.gif" height="100px" /></a>
 
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200" alt="Top Langs" height="200px" /></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" alt="my github stats" height="200px" /></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200" alt="Top Langs" height="150px" /></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" alt="my github stats" height="150px" /></a>
 
 I am a student at a secondary technical college for IT.
 
