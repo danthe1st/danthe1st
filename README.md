@@ -1,6 +1,6 @@
 # <img src="https://cdn.discordapp.com/avatars/358291050957111296/04142bc301e89d192b99e2d3664f4723.png" height="100px" /> dan1st
 
-[![Skyline](https://user-images.githubusercontent.com/34687786/114549697-9fb2fb80-9c61-11eb-936d-44a26c185bc5.png)](https://skyline.github.com/danthe1st)
+[![image](https://user-images.githubusercontent.com/34687786/114550105-2071f780-9c62-11eb-8437-46e4dde1dc26.png)](https://skyline.github.com/danthe1st)
 
 <a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
