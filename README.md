@@ -2,7 +2,7 @@
 <details>
   <summary>Click here to expand <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></summary>
   
-  ![GitHub Metrics](https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg)
+  <img src="https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg" width="75%" alt="GitHub Metrics" />
   
 </details>
 
