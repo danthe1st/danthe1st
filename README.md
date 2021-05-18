@@ -1,7 +1,14 @@
 # <img src="https://cdn.discordapp.com/avatars/358291050957111296/04142bc301e89d192b99e2d3664f4723.png" height="100px" /> dan1st
+<details>
+  <summary>Click here to expand GitHub Metrics</summary>
+  
+  [![GitHub Metrics](https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg)](https://github.com/lowlighter/metrics)
+  
+</details>
 
-[![image](https://user-images.githubusercontent.com/34687786/114550105-2071f780-9c62-11eb-8437-46e4dde1dc26.png)](https://skyline.github.com/danthe1st)
-
+<details>
+  <summary>Click here to expand various other stats</summary>
+  
 <a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
 <a href="http://www.nerdtests.com/ft_nq.php"><img src="https://www.nerdtests.com/images/ft/nq/6b7343c290.gif" height="100px" /></a>
@@ -12,6 +19,10 @@
 ##### Stats from github-stats (include private repositories and organizations):
 ![](https://github.com/danthe1st/github-stats/blob/generated/overview.svg)
 ![](https://github.com/danthe1st/github-stats/blob/generated/languages.svg)
+  
+</details>
+
+---
 
 I am a student at a secondary technical college for IT.
 
