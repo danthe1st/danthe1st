@@ -1,8 +1,8 @@
 # <img src="https://cdn.discordapp.com/avatars/358291050957111296/04142bc301e89d192b99e2d3664f4723.png" height="100px" /> dan1st
 <details>
-  <summary>Click here to expand GitHub Metrics</summary>
+  <summary>Click here to expand <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></summary>
   
-  [![GitHub Metrics](https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg)](https://github.com/lowlighter/metrics)
+  ![GitHub Metrics](https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg)
   
 </details>
 
