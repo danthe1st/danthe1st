@@ -30,5 +30,5 @@ I like to experiment with things like discord bots, dynamic websites and WSL.
 
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
-[Discord](https://discord.com) Tag: `dan1st#7327`
+[Discord](https://discord.com) Tag: [`dan1st#7327`](https://discord.com/users/358291050957111296)
 
