@@ -24,7 +24,7 @@
 
 ---
 
-I was a student at a secondary technical college for IT until 2021.
+I was a student at a secondary technical college for IT until I graduated in 2021.
 
 I like to experiment with things like discord bots, dynamic websites and WSL.
 
