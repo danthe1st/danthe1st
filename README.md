@@ -21,6 +21,8 @@
 ![](https://github.com/danthe1st/github-stats/blob/generated/overview.svg)
 ![](https://github.com/danthe1st/github-stats/blob/generated/languages.svg)
   
+##### GitHub Profile Trophy
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=danthe1st)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
 ---
