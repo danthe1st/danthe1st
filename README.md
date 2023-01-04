@@ -10,8 +10,6 @@
   <summary>Click here to expand various other stats</summary>
   
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
-<a href="http://www.nerdtests.com/ft_nq.php"><img src="https://www.nerdtests.com/images/ft/nq/6b7343c290.gif" height="100px" /></a>
-
 
   
 ##### Stats from github-readme-stats (does not include private repositories and organizations):
