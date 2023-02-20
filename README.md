@@ -37,3 +37,14 @@ Programming languages that I like: java, java and (most importantly) **JAVA**
 [StackOverflow](https://stackoverflow.com) user: [`dan1st`](https://stackoverflow.com/users/10871900/dan1st)<br/>
 <a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
 
+# Open Source Contributions
+
+Here is a non-exhaustive list of Open-Source-Repositories
+
+- [Implement Content assist for Spring Data JPA Repository methods to Spring Tool Suite](https://github.com/spring-projects/sts4/pull/981)
+- [various PRs for Java-Discord/JavaBot](https://github.com/Java-Discord/JavaBot/pulls?q=author%3A%40me+sort%3Acomments-desc)
+- [Fixing a dependency issue in the Google HTTP Client Library for Java](https://github.com/googleapis/google-http-java-client/pull/1405)
+- [Bugfixes for ReVanced](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+user%3Arevanced+sort%3Acomments-desc)
+- [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
+- [small documentation improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
+
