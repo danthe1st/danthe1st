@@ -33,6 +33,7 @@ I like to experiment with things like discord bots, dynamic websites and WSL.
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
 [Discord](https://discord.com) Tag: [`dan1st#7327`](https://discord.com/users/358291050957111296)<br/>
+You can find me on the [Java Discord](https://join.javadiscord.net/)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358291050957111296?theme=light)](https://discord.com/users/358291050957111296)<br/>
 [StackOverflow](https://stackoverflow.com) user: [`dan1st`](https://stackoverflow.com/users/10871900/dan1st)<br/>
 <a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
