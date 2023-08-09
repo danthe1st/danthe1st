@@ -43,6 +43,7 @@ You can find me on the [Java Discord](https://join.javadiscord.net/)<br/>
 Here is a non-exhaustive list of Open-Source-Repositories
 
 - [contribution to the JDK](https://github.com/openjdk/jdk/pull/15040) ([commit](https://github.com/openjdk/jdk/commit/b463c6d3b0f27c8f124b5733cb9e7677542abe37))
+  - also to [the computed-constants branch of opendk/leyden](https://github.com/openjdk/leyden/pull/1)
 - [Implement Content assist for Spring Data JPA Repository methods to Spring Tool Suite](https://github.com/spring-projects/sts4/pull/981)
 - [various PRs for Java-Discord/JavaBot](https://github.com/Java-Discord/JavaBot/pulls?q=author%3A%40me+sort%3Acomments-desc)
 - [Fixing a dependency issue in the Google HTTP Client Library for Java](https://github.com/googleapis/google-http-java-client/pull/1405)
