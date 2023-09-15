@@ -46,6 +46,7 @@ Here is a non-exhaustive list of Open-Source-Repositories
   - also to [the computed-constants branch of opendk/leyden](https://github.com/openjdk/leyden/pull/1)
 - [Implement Content assist for Spring Data JPA Repository methods to Spring Tool Suite](https://github.com/spring-projects/sts4/pull/981)
 - [various PRs for Java-Discord/JavaBot](https://github.com/Java-Discord/JavaBot/pulls?q=author%3A%40me+sort%3Acomments-desc)
+- [Spring bugreports](https://github.com/search?q=org%3Aspring-projects+author%3Adanthe1st&type=issues)
 - [Fixing a dependency issue in the Google HTTP Client Library for Java](https://github.com/googleapis/google-http-java-client/pull/1405)
 - [Bugfixes for ReVanced](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+user%3Arevanced+sort%3Acomments-desc)
 - [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
