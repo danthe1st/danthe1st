@@ -1,29 +1,4 @@
 # <img src="https://cdn.discordapp.com/avatars/358291050957111296/04142bc301e89d192b99e2d3664f4723.png" height="100px" /> dan1st
-<details>
-  <summary>Click here to expand <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></summary>
-  
-  <img src="https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg" width="75%" alt="GitHub Metrics" />
-  
-</details>
-
-<details>
-  <summary>Click here to expand various other stats</summary>
-  
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
-
-  
-##### Stats from github-readme-stats (does not include private repositories and organizations):
-<a href=""><img src="https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" alt="my github stats" height="150px" /></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200" alt="Top Langs" height="150px" /></a>
-##### Stats from github-stats (include private repositories and organizations):
-![](https://github.com/danthe1st/github-stats/blob/generated/overview.svg)
-![](https://github.com/danthe1st/github-stats/blob/generated/languages.svg)
-  
-##### GitHub Profile Trophy
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=danthe1st)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
-
----
 
 Currently, I am doing my bachelor studies in AI.
 Before that, I was a student at a secondary technical college for IT.
@@ -52,3 +27,27 @@ Here is a non-exhaustive list of Open-Source-Repositories
 - [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
 - [small documentation improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
 
+---
+<details>
+  <summary>Click here to expand <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></summary>
+  
+  <img src="https://raw.githubusercontent.com/danthe1st/github-stats/generated/metrics.svg" width="75%" alt="GitHub Metrics" />
+  
+</details>
+
+<details>
+  <summary>Click here to expand various other stats</summary>
+  
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
+
+  
+##### Stats from github-readme-stats (does not include private repositories and organizations):
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" alt="my github stats" height="150px" /></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200" alt="Top Langs" height="150px" /></a>
+##### Stats from github-stats (include private repositories and organizations):
+![](https://github.com/danthe1st/github-stats/blob/generated/overview.svg)
+![](https://github.com/danthe1st/github-stats/blob/generated/languages.svg)
+  
+##### GitHub Profile Trophy
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=danthe1st)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
