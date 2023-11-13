@@ -3,7 +3,7 @@
 Currently, I am doing my bachelor studies in AI.
 Before that, I was a student at a secondary technical college for IT.
 
-I like to experiment with things like discord bots, dynamic websites and WSL.
+I like to experiment with various programming-related things.
 
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
