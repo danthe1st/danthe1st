@@ -7,7 +7,7 @@ I like to experiment with various programming-related things.
 
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
-[Discord](https://discord.com) Tag: [`dan1st#7327`](https://discord.com/users/358291050957111296)<br/>
+[Discord](https://discord.com) Tag: [`dan1st`](https://discord.com/users/358291050957111296)<br/>
 You can find me in the [Discord Java Community](https://join.javadiscord.net/)<br/>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358291050957111296?theme=light)](https://discord.com/users/358291050957111296)<br/>
 [StackOverflow](https://stackoverflow.com) user: [`dan1st`](https://stackoverflow.com/users/10871900/dan1st)<br/>
