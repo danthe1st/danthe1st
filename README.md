@@ -25,7 +25,7 @@ Here is a non-exhaustive list of Open-Source-Repositories
 - [Fixing a dependency issue in the Google HTTP Client Library for Java](https://github.com/googleapis/google-http-java-client/pull/1405)
 - [Bugfixes for ReVanced](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+user%3Arevanced+sort%3Acomments-desc)
 - [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
-- [small documentation improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
+- [small (mainly documentation) improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
 
 ---
 <details>
