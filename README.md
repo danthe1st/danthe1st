@@ -9,7 +9,7 @@ Programming languages that I like: java, java and (most importantly) **JAVA**
 
 # (some) Open Source Contributions
 
-Here is a non-exhaustive list of Open-Source-Repositories
+Here is a non-exhaustive list of my contributions to Open-Source-Repositories of other people:
 
 - [contribution to the JDK](https://github.com/openjdk/jdk/pull/15040) ([commit](https://github.com/openjdk/jdk/commit/b463c6d3b0f27c8f124b5733cb9e7677542abe37))
   - also to [the computed-constants branch of opendk/leyden](https://github.com/openjdk/leyden/pull/1)
