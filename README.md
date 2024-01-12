@@ -7,13 +7,7 @@ I like to experiment with various programming-related things.
 
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
-[Discord](https://discord.com) Tag: [`dan1st`](https://discord.com/users/358291050957111296)<br/>
-You can find me in the [Discord Java Community](https://join.javadiscord.net/)<br/>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358291050957111296?theme=light)](https://discord.com/users/358291050957111296)<br/>
-[StackOverflow](https://stackoverflow.com) user: [`dan1st`](https://stackoverflow.com/users/10871900/dan1st)<br/>
-<a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
-
-# Open Source Contributions
+# (some) Open Source Contributions
 
 Here is a non-exhaustive list of Open-Source-Repositories
 
@@ -26,6 +20,14 @@ Here is a non-exhaustive list of Open-Source-Repositories
 - [Bugfixes for ReVanced](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+user%3Arevanced+sort%3Acomments-desc)
 - [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
 - [small (mainly documentation) improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
+
+# where to find me
+
+[Discord](https://discord.com) Tag: [`dan1st`](https://discord.com/users/358291050957111296)<br/>
+You can find me in the [Discord Java Community](https://join.javadiscord.net/)<br/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/358291050957111296?theme=light)](https://discord.com/users/358291050957111296)<br/>
+[StackOverflow](https://stackoverflow.com) user: [`dan1st`](https://stackoverflow.com/users/10871900/dan1st)<br/>
+<a href="https://stackoverflow.com/users/10871900/dan1st"><img src="https://stackexchange.com/users/flair/15064163.png" height="100px" alt="my Stack Exchange, profile" /></a>
 
 ---
 <details>
