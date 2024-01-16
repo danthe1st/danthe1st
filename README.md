@@ -40,7 +40,7 @@ You can find me at the [Discord Java Community](https://join.javadiscord.net/)<b
 <details>
   <summary>Click here to expand various other stats</summary>
   
-<!-- <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a> -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=danthe1st&hide_border=true&fire=red" height="100px" /></a>
 
 
   
