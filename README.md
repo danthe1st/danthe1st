@@ -7,6 +7,9 @@ I like to experiment with various programming-related things.
 
 Programming languages that I like: java, java and (most importantly) **JAVA**
 
+Warning: I have opinions when it comes to code style, what programming languages should do. These opinions may change over time.  
+Also, I prefer using the Eclipse IDE (at least for Java development) for reasons I explained [here](https://gist.github.com/danthe1st/b72175436d9aaf0e19eeca608cce4feb). While other IDEs are great as well, I prefer Eclipse.
+
 # (some) Open Source Contributions
 
 Here is a non-exhaustive list of my contributions to Open-Source-Repositories of other people:
