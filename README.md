@@ -1,7 +1,7 @@
 # <img src="https://cdn.discordapp.com/avatars/358291050957111296/04142bc301e89d192b99e2d3664f4723.png" height="100px" /> dan1st
 
 Currently, I am doing my bachelor studies in AI.
-Before that, I was a student at a secondary technical college for IT.
+Before that, I was a student at a secondary technical college for IT/CS.
 
 I like to experiment with various programming-related things.
 
