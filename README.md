@@ -5,7 +5,7 @@ Before that, I was a student at a secondary technical college for IT/CS.
 
 I like to experiment with various programming-related things.
 
-Programming languages that I like: java, java and (most importantly) **JAVA**
+Programming languages that I like: Java, Java and (most importantly) **JAVA**
 
 > [!Warning]
 > I have opinions when it comes to code style, what programming languages should do, what constitutes as good/readable code, etc. These opinions may change over time.  
