@@ -9,7 +9,7 @@ Programming languages that I like: java, java and (most importantly) **JAVA**
 
 > [!Warning]
 > I have opinions when it comes to code style, what programming languages should do, what constitutes as good/readable code, etc. These opinions may change over time.  
-For example, I prefer using the Eclipse IDE (at least for Java development) for reasons I explained [here](https://gist.github.com/danthe1st/b72175436d9aaf0e19eeca608cce4feb). While other IDEs are great as well, I just like Eclipse more.
+For example, I have some [expectations for programming languages](https://gist.github.com/danthe1st/1a7879ccf70db9092ff189370527bb31) (Did I already say I like Java), I prefer using the Eclipse IDE (at least for Java development) for reasons I explained [here](https://gist.github.com/danthe1st/b72175436d9aaf0e19eeca608cce4feb). While other IDEs are great as well, I just like Eclipse more.
 
 # (some) Open Source Contributions
 
