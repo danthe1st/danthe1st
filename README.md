@@ -3,7 +3,7 @@
 I have completed my bachelor studies in AI at JKU.
 Before that, I was a student at a secondary technical college for IT/CS.
 
-I like to experiment with various programming-related things.
+I like to experiment with various programming-related things and I'm the Java User Group Lead/Owner of the [Discord Java Community](https://www.discordjug.net/).
 
 Programming languages that I like: Java, Java and (most importantly) **JAVA**
 
