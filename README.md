@@ -14,18 +14,15 @@ For example, I prefer using the Eclipse IDE (at least for Java development) for 
 # (some) Open Source Contributions
 
 Here is a non-exhaustive list of my contributions to Open-Source-Repositories of other people:
-
+- [implementing](https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/1825) [features](https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/1979) [and](https://github.com/eclipse-jdt/eclipse.jdt.debug/pull/831) [fixing bugs](https://github.com/eclipse-equinox/p2/pull/577) in the Eclipse IDE
 - [contribution to the JDK](https://github.com/openjdk/jdk/pull/15040) ([commit](https://github.com/openjdk/jdk/commit/b463c6d3b0f27c8f124b5733cb9e7677542abe37))
   - also to an early prototype of [the computed-constants branch of opendk/leyden](https://github.com/openjdk/leyden/pull/1) (but this prototype has been replaced by something else)
 - [Implement Content assist for Spring Data JPA Repository methods to Spring Tool Suite](https://github.com/spring-projects/sts4/pull/981)
 - [Fixing a bug in Maven](https://github.com/apache/maven/pull/1801), see also [issues I reported](https://issues.apache.org/jira/browse/MNG-8336?filter=-2&jql=reporter%20in%20(dan1st)%20order%20by%20created%20DESC)
-- [implementing](https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/1825) [features](https://github.com/eclipse-jdt/eclipse.jdt.ui/pull/1979) and [fixing bugs](https://github.com/eclipse-equinox/p2/pull/577) in the Eclipse IDE
-- [various PRs for Java-Discord/JavaBot](https://github.com/Java-Discord/JavaBot/pulls?q=author%3A%40me+sort%3Acomments-desc)
+- [maintaining Java-Discord/JavaBot](https://github.com/Java-Discord/JavaBot/pulls?q=author%3A%40me+sort%3Acomments-desc)
 - [Spring bugreports](https://github.com/search?q=org%3Aspring-projects+author%3Adanthe1st&type=issues)
 - [Fixing a dependency issue in the Google HTTP Client Library for Java](https://github.com/googleapis/google-http-java-client/pull/1405)
 - [dev.java contributions](https://github.com/java/devjava-content/pulls?q=is%3Apr+author%3A%40me+) (see also my [author page](https://dev.java/author/DanielSchmid/))
-- [Bugfixes for ReVanced](https://github.com/pulls?q=is%3Apr+author%3A%40me+archived%3Afalse+user%3Arevanced+sort%3Acomments-desc)
-- [Adding a translation to OpenCalc](https://github.com/Darkempire78/OpenCalc/pull/34)
 - [small (mainly documentation) improvements in JDA](https://github.com/DV8FromTheWorld/JDA/pulls?q=author%3A%40me+sort%3Aupdated-desc+)
 
 # where to find me
