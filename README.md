@@ -51,10 +51,7 @@ You can find me at the [Discord Java Community](https://discordjug.net/)<br/>
 ##### Stats from github-readme-stats:
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=danthe1st&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt" alt="my github stats" height="150px" /></a>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danthe1st&layout=compact&height=200" alt="Top Langs" height="150px" /></a>
-##### Stats from github-stats (includes private repositories and organizations):
-![](https://github.com/danthe1st/github-stats/blob/generated/overview.svg)
-![](https://github.com/danthe1st/github-stats/blob/generated/languages.svg)
-  
+
 ##### GitHub Profile Trophy
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=danthe1st)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-trophies.vercel.app/?username=danthe1st)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
